@@ -1,10 +1,10 @@
 ---
 title:  "PRODUCTOS VETERINARIOS"
-subtitle: ".........."
-author: "Wferr"
+subtitle: "PARA TENER ANIMALES SANOS"
+author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
-date:   2015-04-24 12:12:12
+date:   2021-04-24 12:12:12
 ---
 
 ### PRODUCTOS VETERINARIOS
