@@ -1,10 +1,10 @@
 ---
 title:  "ALIMENTOS BALANCEADOS"
-subtitle: ".........."
-author: "Wferr"
+subtitle: "MEJORA LA ALIMENTACION DE TUS ANIMALES"
+author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"
-date:   2015-04-23 12:12:12
+date:   2021-04-23 12:12:12
 ---
 
 ### ALIMENTOS BALANCEADOS
