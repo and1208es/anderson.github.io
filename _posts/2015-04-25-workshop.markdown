@@ -1,10 +1,10 @@
 ---
 title:  "IMPLEMENTACION DE GRANJAS"
-subtitle: "..............."
-author: "Wferr"
+subtitle: "MEJORA LA INSTALACION DE TU GRANJA"
+author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+date:   2021-04-25 12:12:12
 ---
 
 ### IMPLEMENTACION DE GRANJAS
