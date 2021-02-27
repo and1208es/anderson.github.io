@@ -1,6 +1,6 @@
 ---
 title:  "SEMILLAS"
-subtitle: "A Beautiful shot during the night."
+subtitle: ".................."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"

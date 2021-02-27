@@ -1,6 +1,6 @@
 ---
 title:  "IMPLEMENTACION DE GRANJAS"
-subtitle: "It's always a bit messy"
+subtitle: "..............."
 author: "Wferr"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"
