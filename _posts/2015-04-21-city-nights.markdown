@@ -1,10 +1,10 @@
 ---
 title:  "SEMILLAS"
-subtitle: ".................."
-author: "Wferr"
+subtitle: "VARIEDAS DE SEMILLAS"
+author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
-date:   2015-04-21 12:12:12
+date:   2021-04-21 12:12:12
 ---
 
 ### SEMILLAS 
