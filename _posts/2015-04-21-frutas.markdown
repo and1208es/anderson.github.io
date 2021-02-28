@@ -1,6 +1,6 @@
 ---
-title:  "SEMILLAS"
-subtitle: "VARIEDAS DE SEMILLAS"
+title:  "FRUTAS"
+subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"

@@ -1,6 +1,6 @@
 ---
-title:  "IMPLEMENTACION DE GRANJAS"
-subtitle: "MEJORA LA INSTALACION DE TU GRANJA"
+title:  "HIERBES AROMATICAS Y MEDICINALES"
+subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/f.jpg"

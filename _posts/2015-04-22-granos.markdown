@@ -1,6 +1,6 @@
 ---
-title:  "JARDINERIA"
-subtitle: "MEJORA TUS AREAS DE RECREACION"
+title:  "GRANOS"
+subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/c.jpg"

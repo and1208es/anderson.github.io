@@ -1,6 +1,6 @@
 ---
-title:  "FERTILIZANTES"
-subtitle: "PRODUCTOS ORGANICOS Y SINTETICOS"
+title:  "HORTALIZAS"
+subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"

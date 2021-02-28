@@ -1,6 +1,6 @@
 ---
-title:  "ALIMENTOS BALANCEADOS"
-subtitle: "MEJORA LA ALIMENTACION DE TUS ANIMALES"
+title:  "CAFE Y CACAO"
+subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/d.jpg"

@@ -1,6 +1,6 @@
 ---
-title:  "PRODUCTOS VETERINARIOS"
-subtitle: "PARA TENER ANIMALES SANOS"
+title:  "MIEL Y DULCES DE MAGUEY"
+subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/e.jpg"
