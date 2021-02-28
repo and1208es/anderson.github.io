@@ -3,7 +3,7 @@ title:  "DERIVADOS LACTEOS"
 subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/derivado-lacteos.jpg"
 date:   2021-01-25 12:12:12
 ---
 

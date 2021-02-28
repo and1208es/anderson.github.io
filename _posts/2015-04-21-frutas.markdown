@@ -3,7 +3,7 @@ title:  "FRUTAS"
 subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
-image: "img/b.jpg"
+image: "img/frutas.jpg"
 date:   2021-01-21 12:12:12
 ---
 

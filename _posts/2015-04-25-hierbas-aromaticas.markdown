@@ -3,7 +3,7 @@ title:  "HIERBES AROMATICAS Y MEDICINALES"
 subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
-image: "img/f.jpg"
+image: "img/hierbas-aromaticas.jpg"
 date:   2021-01-25 12:12:12
 ---
 

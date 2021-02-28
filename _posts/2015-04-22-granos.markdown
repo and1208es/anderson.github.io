@@ -3,7 +3,7 @@ title:  "GRANOS"
 subtitle: ""
 author: "ANDR"
 avatar: "img/authors/wferr.png"
-image: "img/c.jpg"
+image: "img/granos-andinos.jpg"
 date:   2021-01-22 12:12:12
 ---
 
