@@ -7,7 +7,9 @@ image: "img/frutas.jpg"
 date:   2021-01-21 12:12:12
 ---
 
-### SEMILLAS 
-- SEMILLAS DE HORTALIZAS
-- SEMILLAS DE TUBERCULOS
-- SEMILLAS DE LEGUMBRES Y CEREALES
+### FRUTAS 
+#### FRUTALES NATIVOS DE LA SIERRA
+![Caption for the picture.](img\hortalizas/lechuga.jpg)
+
+#### FRUTALES NATIVOS DE LA SELVA
+![Caption for the picture.](img\hortalizas/hidroponica.jpg)
