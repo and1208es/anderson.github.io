@@ -7,8 +7,8 @@ image: "img/porcinos.jpg"
 date:   2021-01-25 12:12:12
 ---
 
-### IMPLEMENTACION DE GRANJAS
-- COMEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- BEBEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- JAULAS 
-- ETC.
+### CARNE DE PORCINO
+- CORTES
+
+![Caption for the picture.](img\porcinos/porcino.jpg)
+

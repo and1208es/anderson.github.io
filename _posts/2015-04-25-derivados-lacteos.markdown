@@ -7,8 +7,11 @@ image: "img/derivado-lacteos.jpg"
 date:   2021-01-25 12:12:12
 ---
 
-### IMPLEMENTACION DE GRANJAS
-- COMEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- BEBEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- JAULAS 
-- ETC.
+### DERIVADOS LACTEOS NATURALES
+- YOGURT NATURAL
+
+![Caption for the picture.](img\derivado-lacteos/yogurt.jpg)
+
+- QUESO ANDINO
+
+![Caption for the picture.](img\derivado-lacteos/queso.jpg)

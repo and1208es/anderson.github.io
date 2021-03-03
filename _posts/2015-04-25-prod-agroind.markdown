@@ -7,8 +7,11 @@ image: "img/productos-ind.jpg"
 date:   2021-01-25 12:12:12
 ---
 
-### IMPLEMENTACION DE GRANJAS
-- COMEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- BEBEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- JAULAS 
-- ETC.
+### PRODUCTOS PROCESADOS
+- MERMELADA DE FRESA
+
+![Caption for the picture.](img\productos-ind/mermelada.jpg)
+
+- SNAKS DE PAPA NATIVA
+
+![Caption for the picture.](img\productos-ind/snaks.jpg)

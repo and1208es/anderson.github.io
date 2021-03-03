@@ -7,8 +7,19 @@ image: "img/tuberculos.jpg"
 date:   2021-01-25 12:12:12
 ---
 
-### IMPLEMENTACION DE GRANJAS
-- COMEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- BEBEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- JAULAS 
-- ETC.
+### TUBERCULOS NATIVOS
+- PAPA
+
+![Caption for the picture.](img\tuberculos/papa.jpg)
+
+- OLLUCO
+
+![Caption for the picture.](img\tuberculos/olluco.jpg)
+
+- OCA
+
+![Caption for the picture.](img\tuberculos/oca.jpg)
+
+- MASHUA
+
+![Caption for the picture.](img\tuberculos/mashua.jpg)

@@ -7,8 +7,15 @@ image: "img/hierbas-aromaticas.jpg"
 date:   2021-01-25 12:12:12
 ---
 
-### IMPLEMENTACION DE GRANJAS
-- COMEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- BEBEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- JAULAS 
-- ETC.
+### HIERVAS AROMATICAS Y MEDICINALES 
+- MUÑA
+
+![Caption for the picture.](img\hierbas-aromaticas/muña.jpg)
+
+- ANIS
+
+![Caption for the picture.](img\hierbas-aromaticas/anis.jpg)
+
+- HIERBA LUISA
+
+![Caption for the picture.](img\hierbas-aromaticas/luisa.jpg)

@@ -7,8 +7,11 @@ image: "img/caprino-y-ovino.jpg"
 date:   2021-01-25 12:12:12
 ---
 
-### IMPLEMENTACION DE GRANJAS
-- COMEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- BEBEDEROS PARA TODO TIPO DE ANIMAL DE GRANJA
-- JAULAS 
-- ETC.
+### CARNE DE OVINOS Y CAPRINOS
+- CARNE OVINA
+
+![Caption for the picture.](img\caprino-y-ovino/ovino.jpg)
+
+- CARNE CAPRINA
+
+![Caption for the picture.](img\caprino-y-ovino/caprino.jpg)

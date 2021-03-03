@@ -7,7 +7,12 @@ image: "img/granos-andinos.jpg"
 date:   2021-01-22 12:12:12
 ---
 
-### JARDINERIA
-- TIGERAS DE PODAR
-- BANDEJAS DE ALMACIGO
-- BOLSAS DE ALMACIGO
+### GRANOS ANDINOS
+- QUINUA
+
+![Caption for the picture.](img\granos/quinua.jpg)
+
+- KIWICHA
+
+![Caption for the picture.](img\granos/kiwicha.jpg)
+
