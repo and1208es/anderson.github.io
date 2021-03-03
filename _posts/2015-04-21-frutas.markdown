@@ -9,7 +9,16 @@ date:   2021-01-21 12:12:12
 
 ### FRUTAS 
 #### FRUTALES NATIVOS DE LA SIERRA
-![Caption for the picture.](img\hortalizas/lechuga.jpg)
+##### TUNA 
+![Caption for the picture.](img\frutas/tuna.jpg)
+##### AGUAYMANTO
+![Caption for the picture.](img\frutas/aguaymanto.jpg)
+##### LUCMA
+![Caption for the picture.](img\frutas/lucma.jpg)
 
 #### FRUTALES NATIVOS DE LA SELVA
-![Caption for the picture.](img\hortalizas/hidroponica.jpg)
+##### CARAMBOLA
+![Caption for the picture.](img\frutas/carambola.jpg)
+##### CAMUCAMU
+![Caption for the picture.](img\frutas/camucamu.jpg)
+
