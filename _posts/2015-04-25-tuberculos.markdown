@@ -1,6 +1,6 @@
 ---
 title:  "TUBERCULOS"
-subtitle: ""
+subtitle: "ejemplo"
 author: "ANDR"
 avatar: "img/authors/wferr.png"
 image: "img/tuberculos.jpg"
